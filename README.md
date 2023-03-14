@@ -6,6 +6,19 @@ Online misinformation has become a major concern in recent years, and it has bee
 ## Code
 This repository contains notebooks to train the three different models (sentiment, emotion, political bias) and to perform some data analysis. 
 
+## Citations
+Please cite this work as below:
+
+```
+@inproceedings{Peskine_Analyzing_COVID-Related_Social_2023,
+author = {Peskine, Youri and Troncy, Raphaël and Papotti, Paolo},
+doi = {10.1145/3543873.3587622},
+title = {{Analyzing COVID-Related Social Discourse on Twitter using Emotion, Sentiment, Political Bias, Stance, Veracity and Conspiracy Theories}},
+year = {2023}
+}
+```
+
+
 ## Results
 The heatmaps obtained with the different models can be seen on the following figures.
 
