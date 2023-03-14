@@ -7,8 +7,16 @@ Online misinformation has become a major concern in recent years, and it has bee
 This repository contains notebooks to train the three different models (sentiment, emotion, political bias) and to perform some data analysis. 
 
 ## Results
-The heatmaps obtained with the different models can be seen on the following figures:
+The heatmaps obtained with the different models can be seen on the following figures.
+
+*Sentiment*:
 
 ![plot](./figures/sentiment.png)
+
+*Emotion*:
+
 ![plot](./figures/emotion.png)
+
+*Political bias*:
+
 ![plot](./figures/political_bias.png)
