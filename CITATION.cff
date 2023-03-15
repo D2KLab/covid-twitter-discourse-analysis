@@ -26,11 +26,6 @@ preferred-citation:
     given-names: "Paolo"
     orcid: "https://orcid.org/0000-0003-0651-4128"
   doi: "10.1145/3543873.3587622"
-  conference:
-   - name: "Beyond Facts: 3d International Workshop on Knowledge Graphs for Online Discourse Analysis"
-     location: "AT&T Hotel and Conference Center"
-     city: "Austin"
-     region: "Texas"
-     country: "US"
+  collection-title:"Beyond Facts: 3d International Workshop on Knowledge Graphs for Online Discourse Analysis"
   title: "Analyzing COVID-Related Social Discourse on Twitter using Emotion, Sentiment, Political Bias, Stance, Veracity and Conspiracy Theories"
   year: 2023
