@@ -10,10 +10,11 @@ This repository contains notebooks to train the three different models (sentimen
 Please cite this work as below:
 
 ```
-@inproceedings{Peskine_Analyzing_COVID-Related_Social_2023,
-author = {Peskine, Youri and Troncy, Raphaël and Papotti, Paolo},
-doi = {10.1145/3543873.3587622},
+@inproceedings{Peskine_BeyondFacts_2023,
+author = {Peskine, Youri and Troncy, Raphael and Papotti, Paolo},
 title = {{Analyzing COVID-Related Social Discourse on Twitter using Emotion, Sentiment, Political Bias, Stance, Veracity and Conspiracy Theories}},
+proceedings = {3rd International Workshop on Knowledge Graphs for Online Discourse Analysis (BeyondFacts)},
+doi = {10.1145/3543873.3587622},
 year = {2023}
 }
 ```
